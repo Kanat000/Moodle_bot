@@ -1,0 +1,2 @@
+BOT_TOKEN = '5690848336:AAHlNW9CMKpUqCeU92I5_5nYfTN1f0mC4yc'
+db_name = 'moodle.db'
